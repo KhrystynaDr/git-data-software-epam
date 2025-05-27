@@ -1,4 +1,9 @@
 You think that I can't live without your love?
 you'll see
+<<<<<<< HEAD
 You think I can't go on another day?
 You think I have nothing
+=======
+
+
+>>>>>>> test
